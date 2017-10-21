@@ -118,7 +118,8 @@ Substitute `android` for `ios` if on a Mac.
 Open the file [TUTORIAL.md](TUTORIAL.md).
 
 ## Credits
-No Credits.
+- [(21.09.2017) Jeff Delaney: Build Angular Desktop Apps With Electron](http://known.mattbeckett.me/2017/ionic-2-electron)
+- [(12.03.2017) Matt Beckett: Ionic 2 + Electron](https://angularfirebase.com/lessons/desktop-apps-with-electron-and-angular/)
 
 ## Help
 ### Ionic:
