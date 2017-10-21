@@ -150,8 +150,10 @@ Last Update: 21. October 2017
   ```json
   "main": "main.js",
   "scripts": {
+    ...
     "electron": "ionic-app-scripts build --copy ./config/electron.copy.js",
     "electron-start": "electron ."
+    ...
   }
   ```
 9. Build the project:
@@ -177,4 +179,8 @@ Last Update: 21. October 2017
 13. Build the project as an electron app:
   ```bash
   $ npm run electron-build
+  ```
+13. Open the folder '/dist/' and run the electron app:
+  ```bash
+  /dist/
   ```
